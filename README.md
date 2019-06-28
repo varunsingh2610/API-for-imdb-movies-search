@@ -31,4 +31,5 @@ python3 manage.py runserver
 
 This project is also deployed on [Heroku](https://sleepy-caverns-15668.herokuapp.com)
 
+###### ```python3 manage.py dump_movies``` This will dump the data from json file to the database using imdb.json provided on the project.
 ###### Note: I have used pip3 and python3, you can use python version 2 if you like.
