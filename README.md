@@ -27,6 +27,8 @@ python3 manage.py createsuperuser
 python3 manage.py dump_movies
 python3 manage.py runserver
 ```
-#### Note: I have used pip3 and python3, you can use python version 2 if you like.
+
 
 This project is also deployed on [Heroku](https://sleepy-caverns-15668.herokuapp.com)
+
+###### Note: I have used pip3 and python3, you can use python version 2 if you like.
