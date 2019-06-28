@@ -5,9 +5,11 @@ You can use order filter on different fields. And direct search from filter sear
 
 There are two layer of access. An admin user can add, remove or edit movies. Other users can only view the search result. And any unauthorized request can't even see the movies.
 
->admin => can add, remove or edit movies.
->staff => can just view the movies.
->users => can just view the movies.
+I have added plenty of fliter to the project as well.
+
+######admin => can add, remove or edit movies.
+######staff => can just view the movies.
+######users => can just view the movies.
 
 ## Steps to make project up and running
 
