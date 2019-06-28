@@ -7,9 +7,9 @@ There are two layer of access. An admin user can add, remove or edit movies. Oth
 
 I have added plenty of fliter to the project as well.
 
-######admin => can add, remove or edit movies.
-######staff => can just view the movies.
-######users => can just view the movies.
+###### admin => can add, remove or edit movies.
+###### staff => can just view the movies.
+###### users => can just view the movies.
 
 ## Steps to make project up and running
 
