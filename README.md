@@ -39,7 +39,7 @@ For staff and user
 
 ###### ```python3 manage.py dump_movies``` This will dump the data from json file to the database using imdb.json provided on the project.
 
-###### Note: If you decide to download and deploy the project locally then it better that you first flush the database and for that use the below command. 
+###### Note: If you decide to download and deploy the project locally then its better that you first flush the database and for that use the below command. 
 ```
 python3 manage.py flush
 ```
