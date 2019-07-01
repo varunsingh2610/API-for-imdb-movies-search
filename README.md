@@ -38,8 +38,4 @@ For staff and user
 ###### password - Passw@rd
 
 ###### ```python3 manage.py dump_movies``` This will dump the data from json file to the database using imdb.json provided on the project.
-###### Note: If you decide to download and deploy the project locally then it better that you first delete database file db.sqlite3 and migration folder inside movies app folder. I have used pip3 and python3, you can use python version 2 if you like.
-```
-rm -rf db.sqlite3
-rm -rf movies/migrations
-```
+
