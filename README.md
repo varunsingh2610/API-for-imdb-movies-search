@@ -12,6 +12,10 @@ There are two layer of access. An admin user can add, remove or edit movies. Oth
 
 ## Steps to make project up and running
 
+###### Note: If you decide to download and deploy the project locally then its better that you first flush the database and for that use the below command. 
+```
+python3 manage.py flush
+```
 ### create a virtual environment
 ```
 python3 -m venv env
@@ -39,8 +43,5 @@ For staff and user
 
 ###### ```python3 manage.py dump_movies``` This will dump the data from json file to the database using imdb.json provided on the project.
 
-###### Note: If you decide to download and deploy the project locally then its better that you first flush the database and for that use the below command. 
-```
-python3 manage.py flush
-```
+
 ###### I have used pip3 and python3 for the project, you can use python version 2 if you like.
